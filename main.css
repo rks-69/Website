@@ -53,11 +53,12 @@ img {
 
 .section-heading h1 {
   font-size: 3.5rem;
-  color: rgba(255, 255, 255, 0.3);
+/*   color: rgba(255, 255, 255, 0.3); */
   text-transform: uppercase;
   font-weight: 300;
   position: relative;
   margin-bottom: 1rem;
+  color:#f06;
 }
 
 .section-heading h1::before,
@@ -233,7 +234,8 @@ li {
 
 .about-header h1 {
   font-size: 3rem;
-  opacity: 0.3;
+/*   opacity: 0.3; */
+  color: #f06;
 }
 
 .about-header h4 {
@@ -346,7 +348,8 @@ li {
   font-size: 1.5rem;
   text-transform: uppercase;
   font-weight: 300;
-  opacity: 0.3;
+/*   opacity: 0.3; */
+  color:#fc0;
 }
 
 .portfolio-description h1 {
@@ -387,7 +390,8 @@ li {
   text-transform: uppercase;
   font-weight: 300;
   margin-bottom: 1rem;
-  opacity: 0.3;
+/*   opacity: 0.3; */
+  color:#06f;
 }
 
 .timeline .date {
